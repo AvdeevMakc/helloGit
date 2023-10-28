@@ -10,3 +10,13 @@ body{
 .container{
     margin: 0 auto;
 }
+
+h1{
+    font-size: 40px;
+    margin: 0 0 50px 0;
+    color: rgb(35, 15, 164);
+}
+h2{
+    font-size: 32px;
+    color: blueviolet;
+}
